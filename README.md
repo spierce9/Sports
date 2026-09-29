@@ -18,8 +18,11 @@ Settings (sample, split date, drop first N days, countries, tournaments, qualifi
 | `02_download_prices.py` | Daily index closes (Yahoo Finance) and the world index (ACWI ETF) |
 | `10_build_events.py` | One row per country-match: win/draw/loss (shootout decides), next trading day |
 | `11_build_panel.py` | Country-day returns (100 × log change), world return and lag, match dummies |
+| `12_build_elo.py` | World Football Elo ratings rebuilt from all results since 1872; pre-match expected score and surprise |
 | `20_market_model.py` | Betas on world (same day and lag) per country and period, on non-match days; abnormal returns |
 | `30_regressions.py` | Abnormal and absolute abnormal return on loss/win/draw dummies; loss vs win tests; period interaction |
+| `31_event_windows.py` | Timing: pre-match placebo, match day, next day, day after and two-day windows by outcome |
+| `32_surprise.py` | Abnormal return on Elo surprise; losses split into upset (as favourite) and expected |
 
 ## Data
 
@@ -47,3 +50,5 @@ Settings (sample, split date, drop first N days, countries, tournaments, qualifi
   Europe) or during the next Asian session (2026 World Cup evening games) are partly mistimed.
 - Index returns are in local currency; the world index is in USD, so betas partly reflect FX.
 - A match between two sample countries gives one event for each side.
+- Elo ratings follow the eloratings.net formula but are recomputed here (that site cannot be
+  downloaded from this environment), so they differ slightly from the published ratings.

@@ -1,0 +1,31 @@
+Match counts: kind; win              314; draw              89; upset loss        86; expected loss     54
+
+(E1) Abnormal return (%) on Elo surprise (actual - expected result), across matches
+     period           window     term   coef    se      t     p   N
+All 2010-26         next day surprise -0.094 0.099 -0.958 0.339 543
+All 2010-26  same + next day surprise -0.180 0.115 -1.566 0.118 543
+All 2010-26 next + day after surprise -0.069 0.137 -0.506 0.613 543
+    2010-17         next day surprise -0.176 0.145 -1.218 0.225 232
+    2010-17  same + next day surprise -0.182 0.169 -1.075 0.284 232
+    2010-17 next + day after surprise -0.175 0.219 -0.796 0.427 232
+    2018-26         next day surprise -0.024 0.134 -0.179 0.858 311
+    2018-26  same + next day surprise -0.174 0.157 -1.107 0.269 311
+    2018-26 next + day after surprise  0.019 0.174  0.109 0.913 311
+
+(E2) Next-day abnormal return (%) on outcome dummies, losses split by pre-match favourite
+     period                        term   coef    se      t     p     N
+All 2010-26                  upset_loss  0.153 0.105  1.463 0.143 49829
+All 2010-26               expected_loss -0.014 0.132 -0.108 0.914 49829
+All 2010-26                         win  0.041 0.055  0.749 0.454 49829
+All 2010-26                        draw  0.064 0.103  0.618 0.536 49829
+All 2010-26 test: upset - expected loss  0.168 0.169  0.994 0.320 49829
+    2010-17                  upset_loss  0.259 0.146  1.770 0.077 23363
+    2010-17               expected_loss  0.006 0.202  0.031 0.976 23363
+    2010-17                         win  0.057 0.084  0.688 0.492 23363
+    2010-17                        draw  0.110 0.152  0.726 0.468 23363
+    2010-17 test: upset - expected loss  0.252 0.249  1.014 0.311 23363
+    2018-26                  upset_loss  0.053 0.150  0.354 0.723 26466
+    2018-26               expected_loss -0.028 0.176 -0.162 0.872 26466
+    2018-26                         win  0.030 0.073  0.408 0.683 26466
+    2018-26                        draw  0.028 0.141  0.196 0.844 26466
+    2018-26 test: upset - expected loss  0.082 0.231  0.353 0.724 26466
