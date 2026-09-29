@@ -1,0 +1,29 @@
+Settings: horizon 1 yr, nominal, prices in USD, FY1993-FY2026, excluded none, drop first 0
+Correlation of exploration growth with the past year's price change: 0.43
+
+Pooled: next-year price change (%) on exploration growth (gx) and past price change (gp)
+                  model term   coef    se      t     p  t_HC1   N    r2
+                 (1) gx   gx  0.009 0.058  0.157 0.875  0.143 186 0.000
+            (2) gx + gp   gx -0.076 0.062 -1.222 0.223 -1.130 186 0.052
+            (2) gx + gp   gp  0.252 0.080  3.159 0.002  2.895 186 0.052
+(3) + commodity dummies   gx -0.077 0.064 -1.214 0.226 -1.091 186 0.057
+(3) + commodity dummies   gp  0.247 0.081  3.042 0.003  2.798 186 0.057
+
+By commodity, specification (2)
+commodity     years   b_gx    se      t     p  c_gp  N
+     Coal 1994-2025 -0.185 0.210 -0.878 0.387 0.115 32
+   Copper 2001-2025 -0.073 0.167 -0.437 0.666 0.268 25
+     Gold 2002-2025 -0.168 0.148 -1.134 0.269 0.747 24
+ Iron ore 1994-2025  0.127 0.143  0.889 0.382 0.332 30
+   Nickel 2001-2025 -0.201 0.215 -0.935 0.360 0.113 25
+  Uranium 1994-2025 -0.020 0.147 -0.136 0.893 0.508 25
+Zinc-lead 2001-2025 -0.354 0.164 -2.156 0.042 0.406 25
+
+Robustness: horizon of 1, 2 and 3 years (spec 3, non-overlapping windows)
+         model term   coef    se      t     p  t_HC1   N    r2
+(3), next 1 yr   gx -0.077 0.064 -1.214 0.226 -1.091 186 0.057
+(3), next 2 yr   gx  0.208 0.158  1.318 0.191  1.064  91 0.058
+(3), next 3 yr   gx -0.135 0.250 -0.540 0.591 -0.536  59 0.032
+
+Economic size, spec (3): a 50% rise in exploration spend (40.5 log points) goes with a -3.1 log-point (-3.1%) price change over the next 1 year(s).
+Log changes x 100. OLS standard errors; HC1 t in the CSV files.

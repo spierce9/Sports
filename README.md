@@ -3,6 +3,9 @@
 Event study of the first trading day after World Cup, Euro, Copa América, Gold Cup and Asian
 Cup matches for 12 countries, 2010–2026, split 2010–17 vs 2018–26.
 
+A second, separate project is in [`mining/`](mining/README.md): do exploration booms predict
+commodity price falls?
+
 ## Pipeline
 
     pip install -r requirements.txt
