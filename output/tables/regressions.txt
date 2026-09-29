@@ -1,0 +1,49 @@
+Abnormal return (%) on the first trading day after the match, by outcome
+     period day_type     N  mean_ar  t_vs_0  share_ar_negative  mean_abs_ar
+All 2010-26     draw    89    0.064   0.611              0.494        0.663
+All 2010-26     loss   140    0.089   1.084              0.471        0.699
+All 2010-26 no match 49286   -0.000  -0.000              0.500        0.686
+All 2010-26      win   314    0.041   0.818              0.478        0.701
+    2010-17     draw    39    0.110   0.859              0.487        0.593
+    2010-17     loss    64    0.172   1.459              0.422        0.758
+    2010-17 no match 23131   -0.000  -0.000              0.502        0.680
+    2010-17      win   129    0.057   0.697              0.473        0.721
+    2018-26     draw    50    0.028   0.175              0.500        0.718
+    2018-26     loss    76    0.019   0.165              0.513        0.650
+    2018-26 no match 26155   -0.000  -0.000              0.498        0.691
+    2018-26      win   185    0.030   0.471              0.481        0.686
+
+(A) Direction: abnormal return (%) on outcome dummies; baseline = days after no match
+model                                 All 2010-26         2010-17         2018-26     Interaction
+term                                                                                             
+Intercept                          -0.000 (0.004)  -0.000 (0.006)  -0.000 (0.006)   0.000 (0.006)
+loss                                0.089 (0.082)   0.172 (0.118)   0.019 (0.114)   0.172 (0.122)
+win                                 0.041 (0.055)   0.057 (0.084)   0.030 (0.073)   0.057 (0.086)
+draw                                0.064 (0.103)   0.110 (0.152)   0.028 (0.141)   0.110 (0.156)
+test: loss - win                    0.048 (0.099)   0.114 (0.145)  -0.011 (0.135)   0.114 (0.149)
+test: loss + win                    0.130 (0.099)   0.229 (0.145)   0.049 (0.136)   0.229 (0.149)
+late                                                                               -0.000 (0.009)
+late_loss                                                                          -0.153 (0.165)
+late_win                                                                           -0.028 (0.112)
+late_draw                                                                          -0.082 (0.208)
+test: loss - win (2018-26 change)                                                  -0.126 (0.199)
+test: loss + win (2018-26 change)                                                  -0.181 (0.200)
+N (country-days)                            49829           23363           26466           49829
+
+(B) Size: absolute abnormal return (%) on outcome dummies
+model                                   All 2010-26           2010-17           2018-26       Interaction
+term                                                                                                     
+Intercept                          0.686*** (0.003)  0.680*** (0.004)  0.691*** (0.004)  0.680*** (0.005)
+loss                                  0.014 (0.058)     0.078 (0.082)    -0.041 (0.082)     0.078 (0.086)
+win                                   0.015 (0.039)     0.041 (0.058)    -0.004 (0.053)     0.041 (0.061)
+draw                                 -0.022 (0.073)    -0.087 (0.105)     0.028 (0.101)    -0.087 (0.110)
+test: loss - win                     -0.001 (0.070)     0.037 (0.101)    -0.037 (0.097)     0.037 (0.105)
+late                                                                                       0.011* (0.006)
+late_loss                                                                                  -0.119 (0.117)
+late_win                                                                                   -0.045 (0.079)
+late_draw                                                                                   0.115 (0.147)
+test: loss - win (2018-26 change)                                                          -0.074 (0.141)
+N (country-days)                              49829             23363             26466             49829
+
+OLS coefficients (standard errors); * p<0.10, ** p<0.05, *** p<0.01.
+Robust (HC1) t-statistics are in output/tables/regressions.csv.

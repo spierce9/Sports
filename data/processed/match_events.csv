@@ -1,0 +1,544 @@
+country,team,date,event_date,tournament,opponent,goals_for,goals_against,penalties,outcome,neutral,city
+Belgium,Belgium,2014-06-17,2014-06-18,FIFA World Cup,Algeria,2,1,False,win,True,Belo Horizonte
+Belgium,Belgium,2014-06-22,2014-06-23,FIFA World Cup,Russia,1,0,False,win,True,Rio de Janeiro
+Belgium,Belgium,2014-06-26,2014-06-27,FIFA World Cup,South Korea,1,0,False,win,True,São Paulo
+Belgium,Belgium,2014-07-01,2014-07-02,FIFA World Cup,United States,2,1,False,win,True,Salvador
+Belgium,Belgium,2014-07-05,2014-07-07,FIFA World Cup,Argentina,0,1,False,loss,True,Brasília
+Belgium,Belgium,2016-06-13,2016-06-14,UEFA Euro,Italy,0,2,False,loss,True,Lyon
+Belgium,Belgium,2016-06-18,2016-06-20,UEFA Euro,Republic of Ireland,3,0,False,win,True,Bordeaux
+Belgium,Belgium,2016-06-22,2016-06-23,UEFA Euro,Sweden,1,0,False,win,True,Nice
+Belgium,Belgium,2016-06-26,2016-06-27,UEFA Euro,Hungary,4,0,False,win,True,Toulouse
+Belgium,Belgium,2016-07-01,2016-07-04,UEFA Euro,Wales,1,3,False,loss,True,Villeneuve-d'Ascq
+Belgium,Belgium,2018-06-18,2018-06-19,FIFA World Cup,Panama,3,0,False,win,True,Sochi
+Belgium,Belgium,2018-06-23,2018-06-25,FIFA World Cup,Tunisia,5,2,False,win,True,Moscow
+Belgium,Belgium,2018-06-28,2018-06-29,FIFA World Cup,England,1,0,False,win,True,Kaliningrad
+Belgium,Belgium,2018-07-02,2018-07-03,FIFA World Cup,Japan,3,2,False,win,True,Rostov-on-Don
+Belgium,Belgium,2018-07-06,2018-07-09,FIFA World Cup,Brazil,2,1,False,win,True,Kazan
+Belgium,Belgium,2018-07-10,2018-07-11,FIFA World Cup,France,0,1,False,loss,True,Saint Petersburg
+Belgium,Belgium,2018-07-14,2018-07-16,FIFA World Cup,England,2,0,False,win,True,Saint Petersburg
+Belgium,Belgium,2021-06-12,2021-06-14,UEFA Euro,Russia,3,0,False,win,False,Saint Petersburg
+Belgium,Belgium,2021-06-17,2021-06-18,UEFA Euro,Denmark,2,1,False,win,False,Copenhagen
+Belgium,Belgium,2021-06-21,2021-06-22,UEFA Euro,Finland,2,0,False,win,True,Saint Petersburg
+Belgium,Belgium,2021-06-27,2021-06-28,UEFA Euro,Portugal,1,0,False,win,True,Seville
+Belgium,Belgium,2021-07-02,2021-07-05,UEFA Euro,Italy,1,2,False,loss,True,Munich
+Belgium,Belgium,2022-11-23,2022-11-24,FIFA World Cup,Canada,1,0,False,win,True,Al Rayyan
+Belgium,Belgium,2022-11-27,2022-11-28,FIFA World Cup,Morocco,0,2,False,loss,True,Doha
+Belgium,Belgium,2022-12-01,2022-12-02,FIFA World Cup,Croatia,0,0,False,draw,True,Al Rayyan
+Belgium,Belgium,2024-06-17,2024-06-18,UEFA Euro,Slovakia,0,1,False,loss,True,Frankfurt
+Belgium,Belgium,2024-06-22,2024-06-24,UEFA Euro,Romania,2,0,False,win,True,Cologne
+Belgium,Belgium,2024-06-26,2024-06-27,UEFA Euro,Ukraine,0,0,False,draw,True,Stuttgart
+Belgium,Belgium,2024-07-01,2024-07-02,UEFA Euro,France,0,1,False,loss,True,Düsseldorf
+Belgium,Belgium,2026-06-15,2026-06-16,FIFA World Cup,Egypt,1,1,False,draw,True,Seattle
+Belgium,Belgium,2026-06-21,2026-06-22,FIFA World Cup,Iran,0,0,False,draw,True,Inglewood
+Belgium,Belgium,2026-06-26,2026-06-29,FIFA World Cup,New Zealand,5,1,False,win,True,Vancouver
+Belgium,Belgium,2026-07-01,2026-07-02,FIFA World Cup,Senegal,3,2,False,win,True,Seattle
+Belgium,Belgium,2026-07-06,2026-07-07,FIFA World Cup,United States,4,1,False,win,False,Seattle
+Belgium,Belgium,2026-07-10,2026-07-13,FIFA World Cup,Spain,1,2,False,loss,True,Inglewood
+Brazil,Brazil,2010-06-15,2010-06-16,FIFA World Cup,North Korea,2,1,False,win,True,Johannesburg
+Brazil,Brazil,2010-06-20,2010-06-21,FIFA World Cup,Ivory Coast,3,1,False,win,True,Johannesburg
+Brazil,Brazil,2010-06-25,2010-06-28,FIFA World Cup,Portugal,0,0,False,draw,True,Durban
+Brazil,Brazil,2010-06-28,2010-06-29,FIFA World Cup,Chile,3,0,False,win,True,Johannesburg
+Brazil,Brazil,2010-07-02,2010-07-05,FIFA World Cup,Netherlands,1,2,False,loss,True,Port Elizabeth
+Brazil,Brazil,2011-07-03,2011-07-04,Copa América,Venezuela,0,0,False,draw,True,La Plata
+Brazil,Brazil,2011-07-09,2011-07-11,Copa América,Paraguay,2,2,False,draw,True,Córdoba
+Brazil,Brazil,2011-07-13,2011-07-14,Copa América,Ecuador,4,2,False,win,True,Córdoba
+Brazil,Brazil,2011-07-17,2011-07-18,Copa América,Paraguay,0,0,True,loss,True,La Plata
+Brazil,Brazil,2014-06-12,2014-06-13,FIFA World Cup,Croatia,3,1,False,win,False,São Paulo
+Brazil,Brazil,2014-06-17,2014-06-18,FIFA World Cup,Mexico,0,0,False,draw,False,Fortaleza
+Brazil,Brazil,2014-06-23,2014-06-24,FIFA World Cup,Cameroon,4,1,False,win,False,Brasília
+Brazil,Brazil,2014-06-28,2014-06-30,FIFA World Cup,Chile,1,1,True,win,False,Belo Horizonte
+Brazil,Brazil,2014-07-04,2014-07-07,FIFA World Cup,Colombia,2,1,False,win,False,Fortaleza
+Brazil,Brazil,2014-07-08,2014-07-10,FIFA World Cup,Germany,1,7,False,loss,False,Belo Horizonte
+Brazil,Brazil,2014-07-12,2014-07-14,FIFA World Cup,Netherlands,0,3,False,loss,False,Brasília
+Brazil,Brazil,2015-06-14,2015-06-15,Copa América,Peru,2,1,False,win,True,Temuco
+Brazil,Brazil,2015-06-17,2015-06-18,Copa América,Colombia,0,1,False,loss,True,Santiago
+Brazil,Brazil,2015-06-21,2015-06-22,Copa América,Venezuela,2,1,False,win,True,Santiago
+Brazil,Brazil,2015-06-27,2015-06-29,Copa América,Paraguay,1,1,True,loss,True,Concepción
+Brazil,Brazil,2016-06-04,2016-06-06,Copa América,Ecuador,0,0,False,draw,True,Pasadena
+Brazil,Brazil,2016-06-08,2016-06-09,Copa América,Haiti,7,1,False,win,True,Orlando
+Brazil,Brazil,2016-06-12,2016-06-13,Copa América,Peru,0,1,False,loss,True,Foxborough
+Brazil,Brazil,2018-06-17,2018-06-18,FIFA World Cup,Switzerland,1,1,False,draw,True,Rostov-on-Don
+Brazil,Brazil,2018-06-22,2018-06-25,FIFA World Cup,Costa Rica,2,0,False,win,True,Saint Petersburg
+Brazil,Brazil,2018-06-27,2018-06-28,FIFA World Cup,Serbia,2,0,False,win,True,Moscow
+Brazil,Brazil,2018-07-02,2018-07-03,FIFA World Cup,Mexico,2,0,False,win,True,Samara
+Brazil,Brazil,2018-07-06,2018-07-10,FIFA World Cup,Belgium,1,2,False,loss,True,Kazan
+Brazil,Brazil,2019-06-14,2019-06-17,Copa América,Bolivia,3,0,False,win,False,São Paulo
+Brazil,Brazil,2019-06-18,2019-06-19,Copa América,Venezuela,0,0,False,draw,False,Salvador
+Brazil,Brazil,2019-06-22,2019-06-24,Copa América,Peru,5,0,False,win,False,São Paulo
+Brazil,Brazil,2019-06-27,2019-06-28,Copa América,Paraguay,0,0,True,win,False,Porto Alegre
+Brazil,Brazil,2019-07-02,2019-07-03,Copa América,Argentina,2,0,False,win,False,Belo Horizonte
+Brazil,Brazil,2019-07-07,2019-07-08,Copa América,Peru,3,1,False,win,False,Rio de Janeiro
+Brazil,Brazil,2021-06-13,2021-06-14,Copa América,Venezuela,3,0,False,win,False,Brasília
+Brazil,Brazil,2021-06-17,2021-06-18,Copa América,Peru,4,0,False,win,False,Rio de Janeiro
+Brazil,Brazil,2021-06-23,2021-06-24,Copa América,Colombia,2,1,False,win,False,Rio de Janeiro
+Brazil,Brazil,2021-06-27,2021-06-28,Copa América,Ecuador,1,1,False,draw,False,Goiânia
+Brazil,Brazil,2021-07-02,2021-07-05,Copa América,Chile,1,0,False,win,False,Rio de Janeiro
+Brazil,Brazil,2021-07-05,2021-07-06,Copa América,Peru,1,0,False,win,False,Rio de Janeiro
+Brazil,Brazil,2021-07-10,2021-07-12,Copa América,Argentina,0,1,False,loss,False,Rio de Janeiro
+Brazil,Brazil,2022-11-24,2022-11-25,FIFA World Cup,Serbia,2,0,False,win,True,Lusail
+Brazil,Brazil,2022-11-28,2022-11-29,FIFA World Cup,Switzerland,1,0,False,win,True,Doha
+Brazil,Brazil,2022-12-02,2022-12-05,FIFA World Cup,Cameroon,0,1,False,loss,True,Lusail
+Brazil,Brazil,2022-12-05,2022-12-06,FIFA World Cup,South Korea,4,1,False,win,True,Doha
+Brazil,Brazil,2022-12-09,2022-12-12,FIFA World Cup,Croatia,1,1,True,loss,True,Al Rayyan
+Brazil,Brazil,2024-06-24,2024-06-25,Copa América,Costa Rica,0,0,False,draw,True,Inglewood
+Brazil,Brazil,2024-06-28,2024-07-01,Copa América,Paraguay,4,1,False,win,True,Las Vegas
+Brazil,Brazil,2024-07-02,2024-07-03,Copa América,Colombia,1,1,False,draw,True,Santa Clara
+Brazil,Brazil,2024-07-06,2024-07-08,Copa América,Uruguay,0,0,True,loss,True,Las Vegas
+Brazil,Brazil,2026-06-13,2026-06-15,FIFA World Cup,Morocco,1,1,False,draw,True,East Rutherford
+Brazil,Brazil,2026-06-19,2026-06-22,FIFA World Cup,Haiti,3,0,False,win,True,Philadelphia
+Brazil,Brazil,2026-06-24,2026-06-25,FIFA World Cup,Scotland,3,0,False,win,True,Miami Gardens
+Brazil,Brazil,2026-06-29,2026-06-30,FIFA World Cup,Japan,2,1,False,win,True,Houston
+Brazil,Brazil,2026-07-05,2026-07-06,FIFA World Cup,Norway,1,2,False,loss,True,East Rutherford
+France,France,2010-06-11,2010-06-14,FIFA World Cup,Uruguay,0,0,False,draw,True,Cape Town
+France,France,2010-06-17,2010-06-18,FIFA World Cup,Mexico,0,2,False,loss,True,Polokwane
+France,France,2010-06-22,2010-06-23,FIFA World Cup,South Africa,1,2,False,loss,False,Bloemfontein
+France,France,2012-06-11,2012-06-12,UEFA Euro,England,1,1,False,draw,True,Donetsk
+France,France,2012-06-15,2012-06-18,UEFA Euro,Ukraine,2,0,False,win,False,Donetsk
+France,France,2012-06-19,2012-06-20,UEFA Euro,Sweden,0,2,False,loss,True,Kyiv
+France,France,2012-06-23,2012-06-25,UEFA Euro,Spain,0,2,False,loss,True,Donetsk
+France,France,2014-06-15,2014-06-16,FIFA World Cup,Honduras,3,0,False,win,True,Porto Alegre
+France,France,2014-06-20,2014-06-23,FIFA World Cup,Switzerland,5,2,False,win,True,Salvador
+France,France,2014-06-25,2014-06-26,FIFA World Cup,Ecuador,0,0,False,draw,True,Rio de Janeiro
+France,France,2014-06-30,2014-07-01,FIFA World Cup,Nigeria,2,0,False,win,True,Brasília
+France,France,2014-07-04,2014-07-07,FIFA World Cup,Germany,0,1,False,loss,True,Rio de Janeiro
+France,France,2016-06-10,2016-06-13,UEFA Euro,Romania,2,1,False,win,False,Saint-Denis
+France,France,2016-06-15,2016-06-16,UEFA Euro,Albania,2,0,False,win,False,Marseille
+France,France,2016-06-19,2016-06-20,UEFA Euro,Switzerland,0,0,False,draw,False,Villeneuve-d'Ascq
+France,France,2016-06-26,2016-06-27,UEFA Euro,Republic of Ireland,2,1,False,win,False,Lyon
+France,France,2016-07-03,2016-07-04,UEFA Euro,Iceland,5,2,False,win,False,Saint-Denis
+France,France,2016-07-07,2016-07-08,UEFA Euro,Germany,2,0,False,win,False,Marseille
+France,France,2016-07-10,2016-07-11,UEFA Euro,Portugal,0,1,False,loss,False,Saint-Denis
+France,France,2018-06-16,2018-06-18,FIFA World Cup,Australia,2,1,False,win,True,Kazan
+France,France,2018-06-21,2018-06-22,FIFA World Cup,Peru,1,0,False,win,True,Ekaterinburg
+France,France,2018-06-26,2018-06-27,FIFA World Cup,Denmark,0,0,False,draw,True,Moscow
+France,France,2018-06-30,2018-07-02,FIFA World Cup,Argentina,4,3,False,win,True,Kazan
+France,France,2018-07-06,2018-07-09,FIFA World Cup,Uruguay,2,0,False,win,True,Nizhny Novgorod
+France,France,2018-07-10,2018-07-11,FIFA World Cup,Belgium,1,0,False,win,True,Saint Petersburg
+France,France,2018-07-15,2018-07-16,FIFA World Cup,Croatia,4,2,False,win,True,Moscow
+France,France,2021-06-15,2021-06-16,UEFA Euro,Germany,1,0,False,win,False,Munich
+France,France,2021-06-19,2021-06-21,UEFA Euro,Hungary,1,1,False,draw,False,Budapest
+France,France,2021-06-23,2021-06-24,UEFA Euro,Portugal,2,2,False,draw,True,Budapest
+France,France,2021-06-28,2021-06-29,UEFA Euro,Switzerland,3,3,True,loss,True,Bucharest
+France,France,2022-11-22,2022-11-23,FIFA World Cup,Australia,4,1,False,win,True,Al Wakrah
+France,France,2022-11-26,2022-11-28,FIFA World Cup,Denmark,2,1,False,win,True,Doha
+France,France,2022-11-30,2022-12-01,FIFA World Cup,Tunisia,0,1,False,loss,True,Al Rayyan
+France,France,2022-12-04,2022-12-05,FIFA World Cup,Poland,3,1,False,win,True,Doha
+France,France,2022-12-10,2022-12-12,FIFA World Cup,England,2,1,False,win,True,Al Khor
+France,France,2022-12-14,2022-12-15,FIFA World Cup,Morocco,2,0,False,win,True,Al Khor
+France,France,2022-12-18,2022-12-19,FIFA World Cup,Argentina,3,3,True,loss,True,Lusail
+France,France,2024-06-17,2024-06-18,UEFA Euro,Austria,1,0,False,win,True,Düsseldorf
+France,France,2024-06-21,2024-06-24,UEFA Euro,Netherlands,0,0,False,draw,True,Leipzig
+France,France,2024-06-25,2024-06-26,UEFA Euro,Poland,1,1,False,draw,True,Dortmund
+France,France,2024-07-01,2024-07-02,UEFA Euro,Belgium,1,0,False,win,True,Düsseldorf
+France,France,2024-07-05,2024-07-08,UEFA Euro,Portugal,0,0,True,win,True,Hamburg
+France,France,2024-07-09,2024-07-10,UEFA Euro,Spain,1,2,False,loss,True,Munich
+France,France,2026-06-16,2026-06-17,FIFA World Cup,Senegal,3,1,False,win,True,East Rutherford
+France,France,2026-06-22,2026-06-23,FIFA World Cup,Iraq,3,0,False,win,True,Philadelphia
+France,France,2026-06-26,2026-06-29,FIFA World Cup,Norway,4,1,False,win,True,Foxborough
+France,France,2026-06-30,2026-07-01,FIFA World Cup,Sweden,3,0,False,win,True,East Rutherford
+France,France,2026-07-04,2026-07-06,FIFA World Cup,Paraguay,1,0,False,win,True,Philadelphia
+France,France,2026-07-09,2026-07-10,FIFA World Cup,Morocco,2,0,False,win,True,Foxborough
+France,France,2026-07-14,2026-07-15,FIFA World Cup,Spain,0,2,False,loss,True,Arlington
+France,France,2026-07-18,2026-07-20,FIFA World Cup,England,4,6,False,loss,True,Miami Gardens
+Germany,Germany,2010-06-13,2010-06-14,FIFA World Cup,Australia,4,0,False,win,True,Durban
+Germany,Germany,2010-06-18,2010-06-21,FIFA World Cup,Serbia,0,1,False,loss,True,Port Elizabeth
+Germany,Germany,2010-06-23,2010-06-24,FIFA World Cup,Ghana,1,0,False,win,True,Johannesburg
+Germany,Germany,2010-06-27,2010-06-28,FIFA World Cup,England,4,1,False,win,True,Bloemfontein
+Germany,Germany,2010-07-03,2010-07-05,FIFA World Cup,Argentina,4,0,False,win,True,Cape Town
+Germany,Germany,2010-07-07,2010-07-08,FIFA World Cup,Spain,0,1,False,loss,True,Durban
+Germany,Germany,2010-07-10,2010-07-12,FIFA World Cup,Uruguay,3,2,False,win,True,Port Elizabeth
+Germany,Germany,2012-06-09,2012-06-11,UEFA Euro,Portugal,1,0,False,win,True,Lviv
+Germany,Germany,2012-06-13,2012-06-14,UEFA Euro,Netherlands,2,1,False,win,True,Kharkiv
+Germany,Germany,2012-06-17,2012-06-18,UEFA Euro,Denmark,2,1,False,win,True,Lviv
+Germany,Germany,2012-06-22,2012-06-25,UEFA Euro,Greece,4,2,False,win,True,Gdańsk
+Germany,Germany,2012-06-28,2012-06-29,UEFA Euro,Italy,1,2,False,loss,True,Warsaw
+Germany,Germany,2014-06-16,2014-06-17,FIFA World Cup,Portugal,4,0,False,win,True,Salvador
+Germany,Germany,2014-06-21,2014-06-23,FIFA World Cup,Ghana,2,2,False,draw,True,Fortaleza
+Germany,Germany,2014-06-26,2014-06-27,FIFA World Cup,United States,1,0,False,win,True,Recife
+Germany,Germany,2014-06-30,2014-07-01,FIFA World Cup,Algeria,2,1,False,win,True,Porto Alegre
+Germany,Germany,2014-07-04,2014-07-07,FIFA World Cup,France,1,0,False,win,True,Rio de Janeiro
+Germany,Germany,2014-07-08,2014-07-09,FIFA World Cup,Brazil,7,1,False,win,False,Belo Horizonte
+Germany,Germany,2014-07-13,2014-07-14,FIFA World Cup,Argentina,1,0,False,win,True,Rio de Janeiro
+Germany,Germany,2016-06-12,2016-06-13,UEFA Euro,Ukraine,2,0,False,win,True,Villeneuve-d'Ascq
+Germany,Germany,2016-06-16,2016-06-17,UEFA Euro,Poland,0,0,False,draw,True,Saint-Denis
+Germany,Germany,2016-06-21,2016-06-22,UEFA Euro,Northern Ireland,1,0,False,win,True,Paris
+Germany,Germany,2016-06-26,2016-06-27,UEFA Euro,Slovakia,3,0,False,win,True,Villeneuve-d'Ascq
+Germany,Germany,2016-07-02,2016-07-04,UEFA Euro,Italy,1,1,True,win,True,Bordeaux
+Germany,Germany,2016-07-07,2016-07-08,UEFA Euro,France,0,2,False,loss,False,Marseille
+Germany,Germany,2018-06-17,2018-06-18,FIFA World Cup,Mexico,0,1,False,loss,True,Moscow
+Germany,Germany,2018-06-23,2018-06-25,FIFA World Cup,Sweden,2,1,False,win,True,Sochi
+Germany,Germany,2018-06-27,2018-06-28,FIFA World Cup,South Korea,0,2,False,loss,True,Kazan
+Germany,Germany,2021-06-15,2021-06-16,UEFA Euro,France,0,1,False,loss,False,Munich
+Germany,Germany,2021-06-19,2021-06-21,UEFA Euro,Portugal,4,2,False,win,False,Munich
+Germany,Germany,2021-06-23,2021-06-24,UEFA Euro,Hungary,2,2,False,draw,False,Munich
+Germany,Germany,2021-06-29,2021-06-30,UEFA Euro,England,0,2,False,loss,False,London
+Germany,Germany,2022-11-23,2022-11-24,FIFA World Cup,Japan,1,2,False,loss,True,Al Rayyan
+Germany,Germany,2022-11-27,2022-11-28,FIFA World Cup,Spain,1,1,False,draw,True,Al Khor
+Germany,Germany,2022-12-01,2022-12-02,FIFA World Cup,Costa Rica,4,2,False,win,True,Al Khor
+Germany,Germany,2024-06-14,2024-06-17,UEFA Euro,Scotland,5,1,False,win,False,Munich
+Germany,Germany,2024-06-19,2024-06-20,UEFA Euro,Hungary,2,0,False,win,False,Stuttgart
+Germany,Germany,2024-06-23,2024-06-24,UEFA Euro,Switzerland,1,1,False,draw,False,Frankfurt
+Germany,Germany,2024-06-29,2024-07-01,UEFA Euro,Denmark,2,0,False,win,False,Dortmund
+Germany,Germany,2024-07-05,2024-07-08,UEFA Euro,Spain,1,2,False,loss,False,Stuttgart
+Germany,Germany,2026-06-14,2026-06-15,FIFA World Cup,Curaçao,7,1,False,win,True,Houston
+Germany,Germany,2026-06-20,2026-06-22,FIFA World Cup,Ivory Coast,2,1,False,win,True,Toronto
+Germany,Germany,2026-06-25,2026-06-26,FIFA World Cup,Ecuador,1,2,False,loss,True,East Rutherford
+Germany,Germany,2026-06-29,2026-06-30,FIFA World Cup,Paraguay,1,1,True,loss,True,Foxborough
+Italy,Italy,2010-06-14,2010-06-15,FIFA World Cup,Paraguay,1,1,False,draw,True,Cape Town
+Italy,Italy,2010-06-20,2010-06-21,FIFA World Cup,New Zealand,1,1,False,draw,True,Nelspruit
+Italy,Italy,2010-06-24,2010-06-25,FIFA World Cup,Slovakia,2,3,False,loss,True,Johannesburg
+Italy,Italy,2012-06-10,2012-06-11,UEFA Euro,Spain,1,1,False,draw,True,Gdańsk
+Italy,Italy,2012-06-14,2012-06-15,UEFA Euro,Croatia,1,1,False,draw,True,Poznań
+Italy,Italy,2012-06-18,2012-06-19,UEFA Euro,Republic of Ireland,2,0,False,win,True,Poznań
+Italy,Italy,2012-06-24,2012-06-25,UEFA Euro,England,0,0,True,win,True,Kyiv
+Italy,Italy,2012-06-28,2012-06-29,UEFA Euro,Germany,2,1,False,win,True,Warsaw
+Italy,Italy,2012-07-01,2012-07-02,UEFA Euro,Spain,0,4,False,loss,True,Kyiv
+Italy,Italy,2014-06-14,2014-06-16,FIFA World Cup,England,2,1,False,win,True,Manaus
+Italy,Italy,2014-06-20,2014-06-23,FIFA World Cup,Costa Rica,0,1,False,loss,True,Recife
+Italy,Italy,2014-06-24,2014-06-25,FIFA World Cup,Uruguay,0,1,False,loss,True,Natal
+Italy,Italy,2016-06-13,2016-06-14,UEFA Euro,Belgium,2,0,False,win,True,Lyon
+Italy,Italy,2016-06-17,2016-06-20,UEFA Euro,Sweden,1,0,False,win,True,Toulouse
+Italy,Italy,2016-06-22,2016-06-23,UEFA Euro,Republic of Ireland,0,1,False,loss,True,Villeneuve-d'Ascq
+Italy,Italy,2016-06-27,2016-06-28,UEFA Euro,Spain,2,0,False,win,True,Saint-Denis
+Italy,Italy,2016-07-02,2016-07-04,UEFA Euro,Germany,1,1,True,loss,True,Bordeaux
+Italy,Italy,2021-06-11,2021-06-14,UEFA Euro,Turkey,3,0,False,win,False,Rome
+Italy,Italy,2021-06-16,2021-06-17,UEFA Euro,Switzerland,3,0,False,win,False,Rome
+Italy,Italy,2021-06-20,2021-06-21,UEFA Euro,Wales,1,0,False,win,False,Rome
+Italy,Italy,2021-06-26,2021-06-28,UEFA Euro,Austria,2,1,False,win,True,London
+Italy,Italy,2021-07-02,2021-07-05,UEFA Euro,Belgium,2,1,False,win,True,Munich
+Italy,Italy,2021-07-06,2021-07-07,UEFA Euro,Spain,1,1,True,win,True,London
+Italy,Italy,2021-07-11,2021-07-12,UEFA Euro,England,1,1,True,win,False,London
+Italy,Italy,2024-06-15,2024-06-17,UEFA Euro,Albania,2,1,False,win,True,Dortmund
+Italy,Italy,2024-06-20,2024-06-21,UEFA Euro,Spain,0,1,False,loss,True,Gelsenkirchen
+Italy,Italy,2024-06-24,2024-06-25,UEFA Euro,Croatia,1,1,False,draw,True,Leipzig
+Italy,Italy,2024-06-29,2024-07-01,UEFA Euro,Switzerland,0,2,False,loss,True,Berlin
+Japan,Japan,2010-06-14,2010-06-15,FIFA World Cup,Cameroon,1,0,False,win,True,Bloemfontein
+Japan,Japan,2010-06-19,2010-06-21,FIFA World Cup,Netherlands,0,1,False,loss,True,Durban
+Japan,Japan,2010-06-24,2010-06-25,FIFA World Cup,Denmark,3,1,False,win,True,Rustenburg
+Japan,Japan,2010-06-29,2010-06-30,FIFA World Cup,Paraguay,0,0,True,loss,True,Pretoria
+Japan,Japan,2011-01-09,2011-01-11,AFC Asian Cup,Jordan,1,1,False,draw,True,Doha
+Japan,Japan,2011-01-13,2011-01-14,AFC Asian Cup,Syria,2,1,False,win,True,Doha
+Japan,Japan,2011-01-17,2011-01-18,AFC Asian Cup,Saudi Arabia,5,0,False,win,True,Al Rayyan
+Japan,Japan,2011-01-21,2011-01-24,AFC Asian Cup,Qatar,3,2,False,win,False,Doha
+Japan,Japan,2011-01-25,2011-01-26,AFC Asian Cup,South Korea,2,2,True,win,True,Doha
+Japan,Japan,2011-01-29,2011-01-31,AFC Asian Cup,Australia,1,0,False,win,True,Doha
+Japan,Japan,2014-06-14,2014-06-16,FIFA World Cup,Ivory Coast,1,2,False,loss,True,Recife
+Japan,Japan,2014-06-19,2014-06-20,FIFA World Cup,Greece,0,0,False,draw,True,Natal
+Japan,Japan,2014-06-24,2014-06-25,FIFA World Cup,Colombia,1,4,False,loss,True,Cuiabá
+Japan,Japan,2015-01-12,2015-01-13,AFC Asian Cup,Palestine,4,0,False,win,True,Newcastle
+Japan,Japan,2015-01-16,2015-01-19,AFC Asian Cup,Iraq,1,0,False,win,True,Brisbane
+Japan,Japan,2015-01-20,2015-01-21,AFC Asian Cup,Jordan,2,0,False,win,True,Melbourne
+Japan,Japan,2015-01-23,2015-01-26,AFC Asian Cup,United Arab Emirates,1,1,True,loss,True,Sydney
+Japan,Japan,2018-06-19,2018-06-20,FIFA World Cup,Colombia,2,1,False,win,True,Saransk
+Japan,Japan,2018-06-24,2018-06-25,FIFA World Cup,Senegal,2,2,False,draw,True,Ekaterinburg
+Japan,Japan,2018-06-28,2018-06-29,FIFA World Cup,Poland,0,1,False,loss,True,Volgograd
+Japan,Japan,2018-07-02,2018-07-03,FIFA World Cup,Belgium,2,3,False,loss,True,Rostov-on-Don
+Japan,Japan,2019-01-09,2019-01-10,AFC Asian Cup,Turkmenistan,3,2,False,win,True,Abu Dhabi
+Japan,Japan,2019-01-13,2019-01-15,AFC Asian Cup,Oman,1,0,False,win,True,Abu Dhabi
+Japan,Japan,2019-01-17,2019-01-18,AFC Asian Cup,Uzbekistan,2,1,False,win,True,Al Ain
+Japan,Japan,2019-01-21,2019-01-22,AFC Asian Cup,Saudi Arabia,1,0,False,win,True,Sharjah
+Japan,Japan,2019-01-24,2019-01-25,AFC Asian Cup,Vietnam,1,0,False,win,True,Dubai
+Japan,Japan,2019-01-28,2019-01-29,AFC Asian Cup,Iran,3,0,False,win,True,Al Ain
+Japan,Japan,2019-02-01,2019-02-04,AFC Asian Cup,Qatar,1,3,False,loss,True,Abu Dhabi
+Japan,Japan,2019-06-17,2019-06-18,Copa América,Chile,0,4,False,loss,True,São Paulo
+Japan,Japan,2019-06-20,2019-06-21,Copa América,Uruguay,2,2,False,draw,True,Porto Alegre
+Japan,Japan,2019-06-24,2019-06-25,Copa América,Ecuador,1,1,False,draw,True,Belo Horizonte
+Japan,Japan,2022-11-23,2022-11-24,FIFA World Cup,Germany,2,1,False,win,True,Al Rayyan
+Japan,Japan,2022-11-27,2022-11-28,FIFA World Cup,Costa Rica,0,1,False,loss,True,Al Rayyan
+Japan,Japan,2022-12-01,2022-12-02,FIFA World Cup,Spain,2,1,False,win,True,Al Rayyan
+Japan,Japan,2022-12-05,2022-12-06,FIFA World Cup,Croatia,1,1,True,loss,True,Al Wakrah
+Japan,Japan,2024-01-14,2024-01-15,AFC Asian Cup,Vietnam,4,2,False,win,True,Doha
+Japan,Japan,2024-01-19,2024-01-22,AFC Asian Cup,Iraq,1,2,False,loss,True,Al Rayyan
+Japan,Japan,2024-01-24,2024-01-25,AFC Asian Cup,Indonesia,3,1,False,win,True,Doha
+Japan,Japan,2024-01-31,2024-02-01,AFC Asian Cup,Bahrain,3,1,False,win,True,Doha
+Japan,Japan,2024-02-03,2024-02-05,AFC Asian Cup,Iran,1,2,False,loss,True,Al Rayyan
+Japan,Japan,2026-06-14,2026-06-15,FIFA World Cup,Netherlands,2,2,False,draw,True,Arlington
+Japan,Japan,2026-06-20,2026-06-22,FIFA World Cup,Tunisia,4,0,False,win,True,Guadalupe
+Japan,Japan,2026-06-25,2026-06-26,FIFA World Cup,Sweden,1,1,False,draw,True,Arlington
+Japan,Japan,2026-06-29,2026-06-30,FIFA World Cup,Brazil,1,2,False,loss,True,Houston
+Mexico,Mexico,2010-06-11,2010-06-14,FIFA World Cup,South Africa,1,1,False,draw,False,Johannesburg
+Mexico,Mexico,2010-06-17,2010-06-18,FIFA World Cup,France,2,0,False,win,True,Polokwane
+Mexico,Mexico,2010-06-22,2010-06-23,FIFA World Cup,Uruguay,0,1,False,loss,True,Rustenburg
+Mexico,Mexico,2010-06-27,2010-06-28,FIFA World Cup,Argentina,1,3,False,loss,True,Johannesburg
+Mexico,Mexico,2011-06-05,2011-06-06,Gold Cup,El Salvador,5,0,False,win,True,Arlington
+Mexico,Mexico,2011-06-09,2011-06-10,Gold Cup,Cuba,5,0,False,win,True,Charlotte
+Mexico,Mexico,2011-06-12,2011-06-13,Gold Cup,Costa Rica,4,1,False,win,True,Chicago
+Mexico,Mexico,2011-06-18,2011-06-20,Gold Cup,Guatemala,2,1,False,win,True,East Rutherford
+Mexico,Mexico,2011-06-22,2011-06-23,Gold Cup,Honduras,2,0,False,win,True,Houston
+Mexico,Mexico,2011-06-25,2011-06-27,Gold Cup,United States,4,2,False,win,False,Pasadena
+Mexico,Mexico,2011-07-04,2011-07-05,Copa América,Chile,1,2,False,loss,True,San Juan
+Mexico,Mexico,2011-07-08,2011-07-11,Copa América,Peru,0,1,False,loss,True,Mendoza
+Mexico,Mexico,2011-07-12,2011-07-13,Copa América,Uruguay,0,1,False,loss,True,La Plata
+Mexico,Mexico,2013-07-07,2013-07-08,Gold Cup,Panama,1,2,False,loss,True,Pasadena
+Mexico,Mexico,2013-07-11,2013-07-12,Gold Cup,Canada,2,0,False,win,True,Seattle
+Mexico,Mexico,2013-07-14,2013-07-15,Gold Cup,Martinique,3,1,False,win,True,Denver
+Mexico,Mexico,2013-07-20,2013-07-22,Gold Cup,Trinidad and Tobago,1,0,False,win,True,Atlanta
+Mexico,Mexico,2013-07-24,2013-07-25,Gold Cup,Panama,1,2,False,loss,True,Arlington
+Mexico,Mexico,2014-06-13,2014-06-16,FIFA World Cup,Cameroon,1,0,False,win,True,Natal
+Mexico,Mexico,2014-06-17,2014-06-18,FIFA World Cup,Brazil,0,0,False,draw,False,Fortaleza
+Mexico,Mexico,2014-06-23,2014-06-24,FIFA World Cup,Croatia,3,1,False,win,True,Recife
+Mexico,Mexico,2014-06-29,2014-06-30,FIFA World Cup,Netherlands,1,2,False,loss,True,Fortaleza
+Mexico,Mexico,2015-06-12,2015-06-15,Copa América,Bolivia,0,0,False,draw,True,Viña del Mar
+Mexico,Mexico,2015-06-15,2015-06-16,Copa América,Chile,3,3,False,draw,False,Santiago
+Mexico,Mexico,2015-06-19,2015-06-22,Copa América,Ecuador,1,2,False,loss,True,Rancagua
+Mexico,Mexico,2015-07-09,2015-07-10,Gold Cup,Cuba,6,0,False,win,True,Chicago
+Mexico,Mexico,2015-07-12,2015-07-13,Gold Cup,Guatemala,0,0,False,draw,True,Glendale
+Mexico,Mexico,2015-07-15,2015-07-16,Gold Cup,Trinidad and Tobago,4,4,False,draw,True,Charlotte
+Mexico,Mexico,2015-07-19,2015-07-20,Gold Cup,Costa Rica,1,0,False,win,True,East Rutherford
+Mexico,Mexico,2015-07-22,2015-07-23,Gold Cup,Panama,2,1,False,win,True,Atlanta
+Mexico,Mexico,2015-07-26,2015-07-27,Gold Cup,Jamaica,3,1,False,win,True,Philadelphia
+Mexico,Mexico,2016-06-05,2016-06-06,Copa América,Uruguay,3,1,False,win,True,Glendale
+Mexico,Mexico,2016-06-09,2016-06-10,Copa América,Jamaica,2,0,False,win,True,Pasadena
+Mexico,Mexico,2016-06-13,2016-06-14,Copa América,Venezuela,1,1,False,draw,True,Houston
+Mexico,Mexico,2016-06-18,2016-06-20,Copa América,Chile,0,7,False,loss,True,Santa Clara
+Mexico,Mexico,2017-07-09,2017-07-10,Gold Cup,El Salvador,3,1,False,win,True,San Diego
+Mexico,Mexico,2017-07-13,2017-07-14,Gold Cup,Jamaica,0,0,False,draw,True,Denver
+Mexico,Mexico,2017-07-16,2017-07-17,Gold Cup,Curaçao,2,0,False,win,True,San Antonio
+Mexico,Mexico,2017-07-20,2017-07-21,Gold Cup,Honduras,1,0,False,win,True,Glendale
+Mexico,Mexico,2017-07-23,2017-07-24,Gold Cup,Jamaica,0,1,False,loss,True,Pasadena
+Mexico,Mexico,2018-06-17,2018-06-18,FIFA World Cup,Germany,1,0,False,win,True,Moscow
+Mexico,Mexico,2018-06-23,2018-06-25,FIFA World Cup,South Korea,2,1,False,win,True,Rostov-on-Don
+Mexico,Mexico,2018-06-27,2018-06-28,FIFA World Cup,Sweden,0,3,False,loss,True,Ekaterinburg
+Mexico,Mexico,2018-07-02,2018-07-03,FIFA World Cup,Brazil,0,2,False,loss,True,Samara
+Mexico,Mexico,2019-06-15,2019-06-17,Gold Cup,Cuba,7,0,False,win,True,Los Angeles
+Mexico,Mexico,2019-06-19,2019-06-20,Gold Cup,Canada,3,1,False,win,True,Denver
+Mexico,Mexico,2019-06-23,2019-06-24,Gold Cup,Martinique,3,2,False,win,True,Charlotte
+Mexico,Mexico,2019-06-29,2019-07-01,Gold Cup,Costa Rica,1,1,True,win,True,Houston
+Mexico,Mexico,2019-07-02,2019-07-03,Gold Cup,Haiti,1,0,False,win,True,Glendale
+Mexico,Mexico,2019-07-07,2019-07-08,Gold Cup,United States,1,0,False,win,False,Chicago
+Mexico,Mexico,2021-07-10,2021-07-12,Gold Cup,Trinidad and Tobago,0,0,False,draw,True,Arlington
+Mexico,Mexico,2021-07-14,2021-07-15,Gold Cup,Guatemala,3,0,False,win,True,Dallas
+Mexico,Mexico,2021-07-18,2021-07-19,Gold Cup,El Salvador,1,0,False,win,True,Dallas
+Mexico,Mexico,2021-07-24,2021-07-26,Gold Cup,Honduras,3,0,False,win,True,Glendale
+Mexico,Mexico,2021-07-29,2021-07-30,Gold Cup,Canada,2,1,False,win,True,Houston
+Mexico,Mexico,2021-08-01,2021-08-02,Gold Cup,United States,0,1,False,loss,False,Las Vegas
+Mexico,Mexico,2022-11-22,2022-11-23,FIFA World Cup,Poland,0,0,False,draw,True,Doha
+Mexico,Mexico,2022-11-26,2022-11-28,FIFA World Cup,Argentina,0,2,False,loss,True,Lusail
+Mexico,Mexico,2022-11-30,2022-12-01,FIFA World Cup,Saudi Arabia,2,1,False,win,True,Lusail
+Mexico,Mexico,2023-06-25,2023-06-26,Gold Cup,Honduras,4,0,False,win,True,Houston
+Mexico,Mexico,2023-06-29,2023-06-30,Gold Cup,Haiti,3,1,False,win,True,Glendale
+Mexico,Mexico,2023-07-02,2023-07-03,Gold Cup,Qatar,0,1,False,loss,True,Santa Clara
+Mexico,Mexico,2023-07-08,2023-07-10,Gold Cup,Costa Rica,2,0,False,win,True,Arlington
+Mexico,Mexico,2023-07-12,2023-07-13,Gold Cup,Jamaica,3,0,False,win,True,Paradise
+Mexico,Mexico,2023-07-16,2023-07-17,Gold Cup,Panama,1,0,False,win,True,Inglewood
+Mexico,Mexico,2024-06-22,2024-06-24,Copa América,Jamaica,1,0,False,win,True,Houston
+Mexico,Mexico,2024-06-26,2024-06-27,Copa América,Venezuela,0,1,False,loss,True,Inglewood
+Mexico,Mexico,2024-06-30,2024-07-01,Copa América,Ecuador,0,0,False,draw,True,Glendale
+Mexico,Mexico,2025-06-14,2025-06-16,Gold Cup,Dominican Republic,3,2,False,win,True,Inglewood
+Mexico,Mexico,2025-06-18,2025-06-19,Gold Cup,Suriname,2,0,False,win,True,Arlington
+Mexico,Mexico,2025-06-22,2025-06-23,Gold Cup,Costa Rica,0,0,False,draw,True,Paradise
+Mexico,Mexico,2025-06-28,2025-06-30,Gold Cup,Saudi Arabia,2,0,False,win,True,Glendale
+Mexico,Mexico,2025-07-02,2025-07-03,Gold Cup,Honduras,1,0,False,win,True,Santa Clara
+Mexico,Mexico,2025-07-06,2025-07-07,Gold Cup,United States,2,1,False,win,False,Houston
+Mexico,Mexico,2026-06-11,2026-06-12,FIFA World Cup,South Africa,2,0,False,win,False,Mexico City
+Mexico,Mexico,2026-06-18,2026-06-19,FIFA World Cup,South Korea,1,0,False,win,False,Zapopan
+Mexico,Mexico,2026-06-24,2026-06-25,FIFA World Cup,Czech Republic,3,0,False,win,False,Mexico City
+Mexico,Mexico,2026-06-30,2026-07-01,FIFA World Cup,Ecuador,2,0,False,win,False,Mexico City
+Mexico,Mexico,2026-07-05,2026-07-06,FIFA World Cup,England,2,3,False,loss,False,Mexico City
+Netherlands,Netherlands,2010-06-14,2010-06-15,FIFA World Cup,Denmark,2,0,False,win,True,Johannesburg
+Netherlands,Netherlands,2010-06-19,2010-06-21,FIFA World Cup,Japan,1,0,False,win,True,Durban
+Netherlands,Netherlands,2010-06-24,2010-06-25,FIFA World Cup,Cameroon,2,1,False,win,True,Cape Town
+Netherlands,Netherlands,2010-06-28,2010-06-29,FIFA World Cup,Slovakia,2,1,False,win,True,Durban
+Netherlands,Netherlands,2010-07-02,2010-07-05,FIFA World Cup,Brazil,2,1,False,win,True,Port Elizabeth
+Netherlands,Netherlands,2010-07-06,2010-07-07,FIFA World Cup,Uruguay,3,2,False,win,True,Cape Town
+Netherlands,Netherlands,2010-07-11,2010-07-12,FIFA World Cup,Spain,0,1,False,loss,True,Johannesburg
+Netherlands,Netherlands,2012-06-09,2012-06-11,UEFA Euro,Denmark,0,1,False,loss,True,Kharkiv
+Netherlands,Netherlands,2012-06-13,2012-06-14,UEFA Euro,Germany,1,2,False,loss,True,Kharkiv
+Netherlands,Netherlands,2012-06-17,2012-06-18,UEFA Euro,Portugal,1,2,False,loss,True,Kharkiv
+Netherlands,Netherlands,2014-06-13,2014-06-16,FIFA World Cup,Spain,5,1,False,win,True,Salvador
+Netherlands,Netherlands,2014-06-18,2014-06-19,FIFA World Cup,Australia,3,2,False,win,True,Curitiba
+Netherlands,Netherlands,2014-06-23,2014-06-24,FIFA World Cup,Chile,2,0,False,win,True,São Paulo
+Netherlands,Netherlands,2014-06-29,2014-06-30,FIFA World Cup,Mexico,2,1,False,win,True,Fortaleza
+Netherlands,Netherlands,2014-07-05,2014-07-07,FIFA World Cup,Costa Rica,0,0,True,win,True,Salvador
+Netherlands,Netherlands,2014-07-09,2014-07-10,FIFA World Cup,Argentina,0,0,True,loss,True,São Paulo
+Netherlands,Netherlands,2014-07-12,2014-07-14,FIFA World Cup,Brazil,3,0,False,win,False,Brasília
+Netherlands,Netherlands,2021-06-13,2021-06-14,UEFA Euro,Ukraine,3,2,False,win,False,Amsterdam
+Netherlands,Netherlands,2021-06-17,2021-06-18,UEFA Euro,Austria,2,0,False,win,False,Amsterdam
+Netherlands,Netherlands,2021-06-21,2021-06-22,UEFA Euro,North Macedonia,3,0,False,win,False,Amsterdam
+Netherlands,Netherlands,2021-06-27,2021-06-28,UEFA Euro,Czech Republic,0,2,False,loss,True,Budapest
+Netherlands,Netherlands,2022-11-21,2022-11-22,FIFA World Cup,Senegal,2,0,False,win,True,Doha
+Netherlands,Netherlands,2022-11-25,2022-11-28,FIFA World Cup,Ecuador,1,1,False,draw,True,Al Rayyan
+Netherlands,Netherlands,2022-11-29,2022-11-30,FIFA World Cup,Qatar,2,0,False,win,False,Al Khor
+Netherlands,Netherlands,2022-12-03,2022-12-05,FIFA World Cup,United States,3,1,False,win,True,Al Rayyan
+Netherlands,Netherlands,2022-12-09,2022-12-12,FIFA World Cup,Argentina,2,2,True,loss,True,Lusail
+Netherlands,Netherlands,2024-06-16,2024-06-17,UEFA Euro,Poland,2,1,False,win,True,Hamburg
+Netherlands,Netherlands,2024-06-21,2024-06-24,UEFA Euro,France,0,0,False,draw,True,Leipzig
+Netherlands,Netherlands,2024-06-25,2024-06-26,UEFA Euro,Austria,2,3,False,loss,True,Berlin
+Netherlands,Netherlands,2024-07-02,2024-07-03,UEFA Euro,Romania,3,0,False,win,True,Munich
+Netherlands,Netherlands,2024-07-06,2024-07-08,UEFA Euro,Turkey,2,1,False,win,True,Berlin
+Netherlands,Netherlands,2024-07-10,2024-07-11,UEFA Euro,England,1,2,False,loss,True,Dortmund
+Netherlands,Netherlands,2026-06-14,2026-06-15,FIFA World Cup,Japan,2,2,False,draw,True,Arlington
+Netherlands,Netherlands,2026-06-20,2026-06-22,FIFA World Cup,Sweden,5,1,False,win,True,Houston
+Netherlands,Netherlands,2026-06-25,2026-06-26,FIFA World Cup,Tunisia,3,1,False,win,True,Kansas City
+Netherlands,Netherlands,2026-06-29,2026-06-30,FIFA World Cup,Morocco,1,1,True,loss,True,Guadalupe
+Portugal,Portugal,2014-06-16,2014-06-17,FIFA World Cup,Germany,0,4,False,loss,True,Salvador
+Portugal,Portugal,2014-06-22,2014-06-23,FIFA World Cup,United States,2,2,False,draw,True,Manaus
+Portugal,Portugal,2014-06-26,2014-06-27,FIFA World Cup,Ghana,2,1,False,win,True,Brasília
+Portugal,Portugal,2016-06-14,2016-06-15,UEFA Euro,Iceland,1,1,False,draw,True,Saint-Étienne
+Portugal,Portugal,2016-06-18,2016-06-20,UEFA Euro,Austria,0,0,False,draw,True,Lyon
+Portugal,Portugal,2016-06-22,2016-06-23,UEFA Euro,Hungary,3,3,False,draw,True,Lyon
+Portugal,Portugal,2016-06-25,2016-06-27,UEFA Euro,Croatia,1,0,False,win,True,Lens
+Portugal,Portugal,2016-06-30,2016-07-01,UEFA Euro,Poland,1,1,True,win,True,Marseille
+Portugal,Portugal,2016-07-06,2016-07-07,UEFA Euro,Wales,2,0,False,win,True,Lyon
+Portugal,Portugal,2016-07-10,2016-07-11,UEFA Euro,France,1,0,False,win,False,Saint-Denis
+Portugal,Portugal,2018-06-15,2018-06-18,FIFA World Cup,Spain,3,3,False,draw,True,Sochi
+Portugal,Portugal,2018-06-20,2018-06-21,FIFA World Cup,Morocco,1,0,False,win,True,Moscow
+Portugal,Portugal,2018-06-25,2018-06-26,FIFA World Cup,Iran,1,1,False,draw,True,Saransk
+Portugal,Portugal,2018-06-30,2018-07-02,FIFA World Cup,Uruguay,1,2,False,loss,True,Sochi
+Portugal,Portugal,2021-06-15,2021-06-16,UEFA Euro,Hungary,3,0,False,win,False,Budapest
+Portugal,Portugal,2021-06-19,2021-06-21,UEFA Euro,Germany,2,4,False,loss,False,Munich
+Portugal,Portugal,2021-06-23,2021-06-24,UEFA Euro,France,2,2,False,draw,True,Budapest
+Portugal,Portugal,2021-06-27,2021-06-28,UEFA Euro,Belgium,0,1,False,loss,True,Seville
+Portugal,Portugal,2022-11-24,2022-11-25,FIFA World Cup,Ghana,3,2,False,win,True,Doha
+Portugal,Portugal,2022-11-28,2022-11-29,FIFA World Cup,Uruguay,2,0,False,win,True,Lusail
+Portugal,Portugal,2022-12-02,2022-12-05,FIFA World Cup,South Korea,1,2,False,loss,True,Al Rayyan
+Portugal,Portugal,2022-12-06,2022-12-07,FIFA World Cup,Switzerland,6,1,False,win,True,Lusail
+Portugal,Portugal,2022-12-10,2022-12-12,FIFA World Cup,Morocco,0,1,False,loss,True,Doha
+Portugal,Portugal,2024-06-18,2024-06-19,UEFA Euro,Czech Republic,2,1,False,win,True,Leipzig
+Portugal,Portugal,2024-06-22,2024-06-24,UEFA Euro,Turkey,3,0,False,win,True,Dortmund
+Portugal,Portugal,2024-06-26,2024-06-27,UEFA Euro,Georgia,0,2,False,loss,True,Gelsenkirchen
+Portugal,Portugal,2024-07-01,2024-07-02,UEFA Euro,Slovenia,0,0,True,win,True,Frankfurt
+Portugal,Portugal,2024-07-05,2024-07-08,UEFA Euro,France,0,0,True,loss,True,Hamburg
+Portugal,Portugal,2026-06-17,2026-06-18,FIFA World Cup,DR Congo,1,1,False,draw,True,Houston
+Portugal,Portugal,2026-06-23,2026-06-24,FIFA World Cup,Uzbekistan,5,0,False,win,True,Houston
+Portugal,Portugal,2026-06-27,2026-06-29,FIFA World Cup,Colombia,0,0,False,draw,True,Miami Gardens
+Portugal,Portugal,2026-07-02,2026-07-03,FIFA World Cup,Croatia,2,1,False,win,True,Toronto
+Portugal,Portugal,2026-07-06,2026-07-07,FIFA World Cup,Spain,0,1,False,loss,True,Dallas
+South Korea,South Korea,2010-06-12,2010-06-14,FIFA World Cup,Greece,2,0,False,win,True,Port Elizabeth
+South Korea,South Korea,2010-06-17,2010-06-18,FIFA World Cup,Argentina,1,4,False,loss,True,Johannesburg
+South Korea,South Korea,2010-06-22,2010-06-23,FIFA World Cup,Nigeria,2,2,False,draw,True,Durban
+South Korea,South Korea,2010-06-26,2010-06-28,FIFA World Cup,Uruguay,1,2,False,loss,True,Port Elizabeth
+South Korea,South Korea,2011-01-10,2011-01-11,AFC Asian Cup,Bahrain,2,1,False,win,True,Doha
+South Korea,South Korea,2011-01-14,2011-01-17,AFC Asian Cup,Australia,1,1,False,draw,True,Doha
+South Korea,South Korea,2011-01-18,2011-01-19,AFC Asian Cup,India,4,1,False,win,True,Doha
+South Korea,South Korea,2011-01-22,2011-01-24,AFC Asian Cup,Iran,1,0,False,win,True,Doha
+South Korea,South Korea,2011-01-25,2011-01-26,AFC Asian Cup,Japan,2,2,True,loss,True,Doha
+South Korea,South Korea,2011-01-28,2011-01-31,AFC Asian Cup,Uzbekistan,3,2,False,win,True,Doha
+South Korea,South Korea,2014-06-17,2014-06-18,FIFA World Cup,Russia,1,1,False,draw,True,Cuiabá
+South Korea,South Korea,2014-06-22,2014-06-23,FIFA World Cup,Algeria,2,4,False,loss,True,Porto Alegre
+South Korea,South Korea,2014-06-26,2014-06-27,FIFA World Cup,Belgium,0,1,False,loss,True,São Paulo
+South Korea,South Korea,2015-01-10,2015-01-12,AFC Asian Cup,Oman,1,0,False,win,True,Canberra
+South Korea,South Korea,2015-01-13,2015-01-14,AFC Asian Cup,Kuwait,1,0,False,win,True,Canberra
+South Korea,South Korea,2015-01-17,2015-01-19,AFC Asian Cup,Australia,1,0,False,win,False,Brisbane
+South Korea,South Korea,2015-01-22,2015-01-23,AFC Asian Cup,Uzbekistan,2,0,False,win,True,Melbourne
+South Korea,South Korea,2015-01-26,2015-01-27,AFC Asian Cup,Iraq,2,0,False,win,True,Sydney
+South Korea,South Korea,2015-01-31,2015-02-02,AFC Asian Cup,Australia,1,2,False,loss,False,Sydney
+South Korea,South Korea,2018-06-18,2018-06-19,FIFA World Cup,Sweden,0,1,False,loss,True,Nizhny Novgorod
+South Korea,South Korea,2018-06-23,2018-06-25,FIFA World Cup,Mexico,1,2,False,loss,True,Rostov-on-Don
+South Korea,South Korea,2018-06-27,2018-06-28,FIFA World Cup,Germany,2,0,False,win,True,Kazan
+South Korea,South Korea,2019-01-07,2019-01-08,AFC Asian Cup,Philippines,1,0,False,win,True,Dubai
+South Korea,South Korea,2019-01-11,2019-01-14,AFC Asian Cup,Kyrgyzstan,1,0,False,win,True,Al Ain
+South Korea,South Korea,2019-01-16,2019-01-17,AFC Asian Cup,China,2,0,False,win,True,Abu Dhabi
+South Korea,South Korea,2019-01-22,2019-01-23,AFC Asian Cup,Bahrain,2,1,False,win,True,Dubai
+South Korea,South Korea,2019-01-25,2019-01-28,AFC Asian Cup,Qatar,0,1,False,loss,True,Abu Dhabi
+South Korea,South Korea,2022-11-24,2022-11-25,FIFA World Cup,Uruguay,0,0,False,draw,True,Al Rayyan
+South Korea,South Korea,2022-11-28,2022-11-29,FIFA World Cup,Ghana,2,3,False,loss,True,Al Rayyan
+South Korea,South Korea,2022-12-02,2022-12-05,FIFA World Cup,Portugal,2,1,False,win,True,Al Rayyan
+South Korea,South Korea,2022-12-05,2022-12-06,FIFA World Cup,Brazil,1,4,False,loss,True,Doha
+South Korea,South Korea,2024-01-15,2024-01-16,AFC Asian Cup,Bahrain,3,1,False,win,True,Doha
+South Korea,South Korea,2024-01-20,2024-01-22,AFC Asian Cup,Jordan,2,2,False,draw,True,Doha
+South Korea,South Korea,2024-01-25,2024-01-26,AFC Asian Cup,Malaysia,3,3,False,draw,True,Al Wakrah
+South Korea,South Korea,2024-01-30,2024-01-31,AFC Asian Cup,Saudi Arabia,1,1,True,win,True,Al Rayyan
+South Korea,South Korea,2024-02-02,2024-02-05,AFC Asian Cup,Australia,2,1,False,win,True,Al Wakrah
+South Korea,South Korea,2024-02-06,2024-02-07,AFC Asian Cup,Jordan,0,2,False,loss,True,Al Rayyan
+South Korea,South Korea,2026-06-11,2026-06-12,FIFA World Cup,Czech Republic,2,1,False,win,True,Zapopan
+South Korea,South Korea,2026-06-18,2026-06-19,FIFA World Cup,Mexico,0,1,False,loss,False,Zapopan
+South Korea,South Korea,2026-06-24,2026-06-25,FIFA World Cup,South Africa,0,1,False,loss,True,Guadalupe
+Spain,Spain,2010-06-16,2010-06-17,FIFA World Cup,Switzerland,0,1,False,loss,True,Durban
+Spain,Spain,2010-06-21,2010-06-22,FIFA World Cup,Honduras,2,0,False,win,True,Johannesburg
+Spain,Spain,2010-06-25,2010-06-28,FIFA World Cup,Chile,2,1,False,win,True,Pretoria
+Spain,Spain,2010-06-29,2010-06-30,FIFA World Cup,Portugal,1,0,False,win,True,Cape Town
+Spain,Spain,2010-07-03,2010-07-05,FIFA World Cup,Paraguay,1,0,False,win,True,Johannesburg
+Spain,Spain,2010-07-07,2010-07-08,FIFA World Cup,Germany,1,0,False,win,True,Durban
+Spain,Spain,2010-07-11,2010-07-12,FIFA World Cup,Netherlands,1,0,False,win,True,Johannesburg
+Spain,Spain,2012-06-10,2012-06-11,UEFA Euro,Italy,1,1,False,draw,True,Gdańsk
+Spain,Spain,2012-06-14,2012-06-15,UEFA Euro,Republic of Ireland,4,0,False,win,True,Gdańsk
+Spain,Spain,2012-06-18,2012-06-19,UEFA Euro,Croatia,1,0,False,win,True,Gdańsk
+Spain,Spain,2012-06-23,2012-06-25,UEFA Euro,France,2,0,False,win,True,Donetsk
+Spain,Spain,2012-06-27,2012-06-28,UEFA Euro,Portugal,0,0,True,win,True,Donetsk
+Spain,Spain,2012-07-01,2012-07-02,UEFA Euro,Italy,4,0,False,win,True,Kyiv
+Spain,Spain,2014-06-13,2014-06-16,FIFA World Cup,Netherlands,1,5,False,loss,True,Salvador
+Spain,Spain,2014-06-18,2014-06-19,FIFA World Cup,Chile,0,2,False,loss,True,Rio de Janeiro
+Spain,Spain,2014-06-23,2014-06-24,FIFA World Cup,Australia,3,0,False,win,True,Curitiba
+Spain,Spain,2016-06-13,2016-06-14,UEFA Euro,Czech Republic,1,0,False,win,True,Toulouse
+Spain,Spain,2016-06-17,2016-06-20,UEFA Euro,Turkey,3,0,False,win,True,Nice
+Spain,Spain,2016-06-21,2016-06-22,UEFA Euro,Croatia,1,2,False,loss,True,Bordeaux
+Spain,Spain,2016-06-27,2016-06-28,UEFA Euro,Italy,0,2,False,loss,True,Saint-Denis
+Spain,Spain,2018-06-15,2018-06-18,FIFA World Cup,Portugal,3,3,False,draw,True,Sochi
+Spain,Spain,2018-06-20,2018-06-21,FIFA World Cup,Iran,1,0,False,win,True,Kazan
+Spain,Spain,2018-06-25,2018-06-26,FIFA World Cup,Morocco,2,2,False,draw,True,Kaliningrad
+Spain,Spain,2018-07-01,2018-07-02,FIFA World Cup,Russia,1,1,True,loss,False,Moscow
+Spain,Spain,2021-06-14,2021-06-15,UEFA Euro,Sweden,0,0,False,draw,False,Seville
+Spain,Spain,2021-06-19,2021-06-21,UEFA Euro,Poland,1,1,False,draw,False,Seville
+Spain,Spain,2021-06-23,2021-06-24,UEFA Euro,Slovakia,5,0,False,win,False,Seville
+Spain,Spain,2021-06-28,2021-06-29,UEFA Euro,Croatia,5,3,False,win,True,Copenhagen
+Spain,Spain,2021-07-02,2021-07-05,UEFA Euro,Switzerland,1,1,True,win,True,Saint Petersburg
+Spain,Spain,2021-07-06,2021-07-07,UEFA Euro,Italy,1,1,True,loss,True,London
+Spain,Spain,2022-11-23,2022-11-24,FIFA World Cup,Costa Rica,7,0,False,win,True,Doha
+Spain,Spain,2022-11-27,2022-11-28,FIFA World Cup,Germany,1,1,False,draw,True,Al Khor
+Spain,Spain,2022-12-01,2022-12-02,FIFA World Cup,Japan,1,2,False,loss,True,Al Rayyan
+Spain,Spain,2022-12-06,2022-12-07,FIFA World Cup,Morocco,0,0,True,loss,True,Al Rayyan
+Spain,Spain,2024-06-15,2024-06-17,UEFA Euro,Croatia,3,0,False,win,True,Berlin
+Spain,Spain,2024-06-20,2024-06-21,UEFA Euro,Italy,1,0,False,win,True,Gelsenkirchen
+Spain,Spain,2024-06-24,2024-06-25,UEFA Euro,Albania,1,0,False,win,True,Düsseldorf
+Spain,Spain,2024-06-30,2024-07-01,UEFA Euro,Georgia,4,1,False,win,True,Cologne
+Spain,Spain,2024-07-05,2024-07-08,UEFA Euro,Germany,2,1,False,win,False,Stuttgart
+Spain,Spain,2024-07-09,2024-07-10,UEFA Euro,France,2,1,False,win,True,Munich
+Spain,Spain,2024-07-14,2024-07-15,UEFA Euro,England,2,1,False,win,True,Berlin
+Spain,Spain,2026-06-15,2026-06-16,FIFA World Cup,Cape Verde,0,0,False,draw,True,Atlanta
+Spain,Spain,2026-06-21,2026-06-22,FIFA World Cup,Saudi Arabia,4,0,False,win,True,Atlanta
+Spain,Spain,2026-06-26,2026-06-29,FIFA World Cup,Uruguay,1,0,False,win,True,Zapopan
+Spain,Spain,2026-07-02,2026-07-03,FIFA World Cup,Austria,3,0,False,win,True,Inglewood
+Spain,Spain,2026-07-06,2026-07-07,FIFA World Cup,Portugal,1,0,False,win,True,Dallas
+Spain,Spain,2026-07-10,2026-07-13,FIFA World Cup,Belgium,2,1,False,win,True,Inglewood
+Spain,Spain,2026-07-14,2026-07-15,FIFA World Cup,France,2,0,False,win,True,Arlington
+Spain,Spain,2026-07-19,2026-07-20,FIFA World Cup,Argentina,1,0,False,win,True,East Rutherford
+UK,England,2010-06-12,2010-06-14,FIFA World Cup,United States,1,1,False,draw,True,Rustenburg
+UK,England,2010-06-18,2010-06-21,FIFA World Cup,Algeria,0,0,False,draw,True,Cape Town
+UK,England,2010-06-23,2010-06-24,FIFA World Cup,Slovenia,1,0,False,win,True,Port Elizabeth
+UK,England,2010-06-27,2010-06-28,FIFA World Cup,Germany,1,4,False,loss,True,Bloemfontein
+UK,England,2012-06-11,2012-06-12,UEFA Euro,France,1,1,False,draw,True,Donetsk
+UK,England,2012-06-15,2012-06-18,UEFA Euro,Sweden,3,2,False,win,True,Kyiv
+UK,England,2012-06-19,2012-06-20,UEFA Euro,Ukraine,1,0,False,win,False,Donetsk
+UK,England,2012-06-24,2012-06-25,UEFA Euro,Italy,0,0,True,loss,True,Kyiv
+UK,England,2014-06-14,2014-06-16,FIFA World Cup,Italy,1,2,False,loss,True,Manaus
+UK,England,2014-06-19,2014-06-20,FIFA World Cup,Uruguay,1,2,False,loss,True,São Paulo
+UK,England,2014-06-24,2014-06-25,FIFA World Cup,Costa Rica,0,0,False,draw,True,Belo Horizonte
+UK,England,2016-06-11,2016-06-13,UEFA Euro,Russia,1,1,False,draw,True,Marseille
+UK,England,2016-06-16,2016-06-17,UEFA Euro,Wales,2,1,False,win,True,Lens
+UK,England,2016-06-20,2016-06-21,UEFA Euro,Slovakia,0,0,False,draw,True,Saint-Étienne
+UK,England,2016-06-27,2016-06-28,UEFA Euro,Iceland,1,2,False,loss,True,Nice
+UK,England,2018-06-18,2018-06-19,FIFA World Cup,Tunisia,2,1,False,win,True,Volgograd
+UK,England,2018-06-24,2018-06-25,FIFA World Cup,Panama,6,1,False,win,True,Nizhny Novgorod
+UK,England,2018-06-28,2018-06-29,FIFA World Cup,Belgium,0,1,False,loss,True,Kaliningrad
+UK,England,2018-07-03,2018-07-04,FIFA World Cup,Colombia,1,1,True,win,True,Moscow
+UK,England,2018-07-07,2018-07-09,FIFA World Cup,Sweden,2,0,False,win,True,Samara
+UK,England,2018-07-11,2018-07-12,FIFA World Cup,Croatia,1,2,False,loss,True,Moscow
+UK,England,2018-07-14,2018-07-16,FIFA World Cup,Belgium,0,2,False,loss,True,Saint Petersburg
+UK,England,2021-06-13,2021-06-14,UEFA Euro,Croatia,1,0,False,win,False,London
+UK,England,2021-06-18,2021-06-21,UEFA Euro,Scotland,0,0,False,draw,False,London
+UK,England,2021-06-22,2021-06-23,UEFA Euro,Czech Republic,1,0,False,win,False,London
+UK,England,2021-06-29,2021-06-30,UEFA Euro,Germany,2,0,False,win,False,London
+UK,England,2021-07-03,2021-07-05,UEFA Euro,Ukraine,4,0,False,win,True,Rome
+UK,England,2021-07-07,2021-07-08,UEFA Euro,Denmark,2,1,False,win,False,London
+UK,England,2021-07-11,2021-07-12,UEFA Euro,Italy,1,1,True,loss,False,London
+UK,England,2022-11-21,2022-11-22,FIFA World Cup,Iran,6,2,False,win,True,Al Rayyan
+UK,England,2022-11-25,2022-11-28,FIFA World Cup,United States,0,0,False,draw,True,Al Khor
+UK,England,2022-11-29,2022-11-30,FIFA World Cup,Wales,3,0,False,win,True,Al Rayyan
+UK,England,2022-12-04,2022-12-05,FIFA World Cup,Senegal,3,0,False,win,True,Al Khor
+UK,England,2022-12-10,2022-12-12,FIFA World Cup,France,1,2,False,loss,True,Al Khor
+UK,England,2024-06-16,2024-06-17,UEFA Euro,Serbia,1,0,False,win,True,Gelsenkirchen
+UK,England,2024-06-20,2024-06-21,UEFA Euro,Denmark,1,1,False,draw,True,Frankfurt
+UK,England,2024-06-25,2024-06-26,UEFA Euro,Slovenia,0,0,False,draw,True,Cologne
+UK,England,2024-06-30,2024-07-01,UEFA Euro,Slovakia,2,1,False,win,True,Gelsenkirchen
+UK,England,2024-07-06,2024-07-08,UEFA Euro,Switzerland,1,1,True,win,True,Düsseldorf
+UK,England,2024-07-10,2024-07-11,UEFA Euro,Netherlands,2,1,False,win,True,Dortmund
+UK,England,2024-07-14,2024-07-15,UEFA Euro,Spain,1,2,False,loss,True,Berlin
+UK,England,2026-06-17,2026-06-18,FIFA World Cup,Croatia,4,2,False,win,True,Arlington
+UK,England,2026-06-23,2026-06-24,FIFA World Cup,Ghana,0,0,False,draw,True,Foxborough
+UK,England,2026-06-27,2026-06-29,FIFA World Cup,Panama,2,0,False,win,True,East Rutherford
+UK,England,2026-07-01,2026-07-02,FIFA World Cup,DR Congo,2,1,False,win,True,Atlanta
+UK,England,2026-07-05,2026-07-06,FIFA World Cup,Mexico,3,2,False,win,False,Mexico City
+UK,England,2026-07-11,2026-07-13,FIFA World Cup,Norway,2,1,False,win,True,Miami Gardens
+UK,England,2026-07-15,2026-07-16,FIFA World Cup,Argentina,1,2,False,loss,True,Atlanta
+UK,England,2026-07-18,2026-07-20,FIFA World Cup,France,6,4,False,win,True,Miami Gardens
